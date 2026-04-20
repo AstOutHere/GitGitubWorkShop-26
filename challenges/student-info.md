@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: pratham gada
+- Roll Number: 160125733331
+- Section: cse-5
+- GitHub Username: pratham
